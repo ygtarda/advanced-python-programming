@@ -6,3 +6,5 @@ print("My name is " + name + " " + surname + " and \nI am " + str(age) + " years
 print(f"My name is {name} {surname} and I am {age} years old.")
 print("My name is {} {} and I am {} years old.".format(name, surname, age))
 
+
+
